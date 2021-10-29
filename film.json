@@ -1,6 +1,6 @@
 [{
         "id": 1,
-        "judul": "Halloween Kills",
+        "nama": "Halloween Kills",
         "rating": 6.5,
         "rilis": "2021",
         "gambar": "https://167.86.71.48/wp-content/uploads/2021/10/1634345456_ir9eyz1mtgsohjvo7UYtqUfFuES.jpg",
@@ -9,7 +9,7 @@
     },
     {
         "id": 2,
-        "judul": "Night Teeth",
+        "nama": "Night Teeth",
         "rating": 6.1,
         "rilis": "2021",
         "gambar": "https://167.86.71.48/wp-content/uploads/2021/10/1634741398_4niEFGAUEz3GUqwk9Y2y4aAERhE.jpg",
@@ -18,7 +18,7 @@
     },
     {
         "id": 3,
-        "judul": "Apocalypto",
+        "nama": "Apocalypto",
         "rating": 7.8,
         "rilis": "2006",
         "gambar": "https://167.86.71.48/wp-content/uploads/2021/10/1635416126_cBFQsU1LDBEOl0Ik0cygeB6wCLE.jpg",
@@ -27,7 +27,7 @@
     },
     {
         "id": 4,
-        "judul": "My Name",
+        "nama": "My Name",
         "rating": 8.1,
         "rilis": "2021",
         "gambar": "https://167.86.71.48/wp-content/uploads/2021/10/1634433697_gHozOomiA24DvlgNfjkYCB5NBiO.jpg",
@@ -36,7 +36,7 @@
     },
     {
         "id": 5,
-        "judul": "What If...?",
+        "nama": "What If...?",
         "rating": 8.8,
         "rilis": "2021",
         "gambar": "https://167.86.71.48/wp-content/uploads/2021/08/1628672521_dzNHbmjueaGGwS3Rwpb8AAWkHxc.jpg",
@@ -45,7 +45,7 @@
     },
     {
         "id": 6,
-        "judul": "Ozark",
+        "nama": "Ozark",
         "rating": 8.4,
         "rilis": "1994",
         "gambar": "https://167.86.71.48/wp-content/uploads/2021/10/1633356273_x7M93pIs7spQRLjtcNra1dDemxx.jpg",
@@ -54,7 +54,7 @@
     },
     {
         "id": 7,
-        "judul": "Flags of Our Fathers",
+        "nama": "Flags of Our Fathers",
         "rating": 7.1,
         "rilis": "2006",
         "gambar": "https://167.86.71.48/wp-content/uploads/2021/10/1635417039_bJ4h4TY6IOPpgZh9wtbPOgYrh4.jpg",
@@ -63,7 +63,7 @@
     },
     {
         "id": 8,
-        "judul": "Maid",
+        "nama": "Maid",
         "rating": 8.5,
         "rilis": "2021",
         "gambar": "https://167.86.71.48/wp-content/uploads/2021/10/1635423320_4brWcSXdH31BZUTtRTHj2BYFe6M.jpg",
@@ -72,7 +72,7 @@
     },
     {
         "id": 9,
-        "judul": "Downfall",
+        "nama": "Downfall",
         "rating": 8.2,
         "rilis": "2004",
         "gambar": "https://167.86.71.48/wp-content/uploads/2020/12/1607050606_cP1ElGjBhbZAAqmueXjHDKlSwiP.jpg",
@@ -81,7 +81,7 @@
     },
     {
         "id": 10,
-        "judul": "War Horse",
+        "nama": "War Horse",
         "rating": 8.2,
         "rilis": "2011",
         "gambar": "https://167.86.71.48/wp-content/uploads/2021/10/1635421546_7KHz6JlJhrFAPesmUkgdnLrSr8Y.jpg",
@@ -90,7 +90,7 @@
     },
     {
         "id": 11,
-        "judul": "The Town",
+        "nama": "The Town",
         "rating": 7.5,
         "rilis": "2010",
         "gambar": "https://167.86.71.48/wp-content/uploads/2021/10/1635421332_3NIzyXkfylsjflRKSz8Fts3lXzm.jpg",
@@ -99,7 +99,7 @@
     },
     {
         "id": 12,
-        "judul": "Sin nombre",
+        "nama": "Sin nombre",
         "rating": 7.6,
         "rilis": "2009",
         "gambar": "https://167.86.71.48/wp-content/uploads/2021/10/1635420113_dubZwiGWp6TwYNGYtyGEUC7XAin.jpg",
@@ -108,7 +108,7 @@
     },
     {
         "id": 13,
-        "judul": "Loki",
+        "nama": "Loki",
         "rating": 9.4,
         "rilis": "1994",
         "gambar": "https://167.86.71.48/wp-content/uploads/2021/06/1623239469_kEl2t3OhXc3Zb9FBh1AuYzRTgZp.jpg",

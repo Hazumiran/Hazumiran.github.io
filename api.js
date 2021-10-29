@@ -6,7 +6,7 @@ async function renderMovie() {
     movieJSON.forEach((res) => {
         var htmlSegment = `<div class="card">
         <p><img src="${res.gambar}" width="220px"></p>
-                            <h1>${res.judul}</h1>
+                            <h1>${res.nama}</h1>
                             <h2>${res.deskripsi}</h2>                                                        
                             <a href="${res.link}" class="link" target="_blank"><button >Lihat Detail</button></a> 
                         </div>`;
